@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alpha/features/maps", {data:[{}],fetch:[],mutations:void 0});
